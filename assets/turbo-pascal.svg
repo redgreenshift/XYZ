@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20">
+  <rect width="100" height="20" fill="#0000AA"/>
+  <text x="50" y="14"
+        fill="#FFFF00"
+        text-anchor="middle"
+        font-family="'Courier New', Courier, 'Liberation Mono', monospace"
+        font-size="11">
+    Turbo Pascal
+  </text>
+</svg>
