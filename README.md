@@ -34,9 +34,6 @@ The project utilizes a **wireframe rendering** style with a built-in **perspecti
 > This project was pushed to the limits of the Turbo Pascal memory model. Due to the recursive nature of the RPN evaluation and the complexity of the 3D rendering, the default stack sizes (8KB and 16KB) resulted in stack overflows. The code was ultimately configured to use the largest stack size permitted by the compiler to ensure stability.
 
 ## Running the Code
-Because this project was written for a DOS environment, you will likely need a legacy compiler or an emulator such as **DOSBox** to compile and run the source code on modern hardware.
-
-## Running the Code
 Because this project was written for a DOS environment, you will likely need a legacy compiler or an emulator such as **DOSBox** to compile and run the source code on modern hardware. Once compiled, run the resulting `XYZ.EXE` from the DOS prompt.
 
 ## License
