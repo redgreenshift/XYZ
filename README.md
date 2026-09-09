@@ -40,7 +40,7 @@ Because this project was written for a DOS environment, you will likely need a l
 
 ## Project History
 
-This project was developed using Turbo Pascal around 1996-1998. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
+This project was developed using Turbo Pascal around 1996-1998. It is preserved as an example of exploratory mathematical programming written in Pascal and is not under active development. It may require modifications to work with current compilers.
 
 The `.cs` file is a Squeak change set, not C# source code.
 
