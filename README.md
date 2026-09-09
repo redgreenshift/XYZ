@@ -1,4 +1,4 @@
-[![Next: 4D Symbolic Function Graphing](https://img.shields.io/badge/NEXT_→-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/symbolic-function-graphing/blob/main/README.md)
+[![Next: 4D Symbolic Function Graphing](https://img.shields.io/badge/NEXT_→-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/4d-symbolic-function-graphing/blob/main/README.md)
 
 # XYZ - 3D Graphing Utility
 
