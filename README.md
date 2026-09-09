@@ -38,5 +38,17 @@ The project utilizes a **wireframe rendering** style with a built-in **perspecti
 ## Running the Code
 Because this project was written for a DOS environment, you will likely need a legacy compiler or an emulator such as **DOSBox** to compile and run the source code on modern hardware. Once compiled, run the resulting `XYZ.EXE` from the DOS prompt.
 
+## Project History
+
+This project was developed using Turbo Pascal around 1996-1998. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
+
+The `.cs` file is a Squeak change set, not C# source code.
+
+### Successor Projects
+
+[4D Symbolic Function Graphing](https://github.com/redgreenshift/4d-symbolic-function-graphing) is the direct successor to `XYZ - 3D Graphing Utility`, as the fourth dimension was the next logical step. The original plan was to completely rewrite this program in Visual C++, using DirectX, in 4 dimensions, as a screensaver. However, I ran into complications with trying to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in `XYZ`. I took a detour through the Smalltalk-80 programming language, writing this project first.
+
+Then, the direct lineage continued after `4D Symbolic Function Graphing` with [Greenshift](https://github.com/redgreenshift/Greenshift) using everything I learned, and this was the C++ "screensaver" I wanted to write, but by the time I started writing `Greenshift`, I had decided to pivot and create a Winamp visualization (which could theoretically still be used as a screensaver).
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
